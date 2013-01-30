@@ -16,9 +16,9 @@ When it comes to installing Symfony ToDo, you have a few options.
 
 Symfony ToDo can be downloaded with git.
 
-    git clone git://github.com/dcbartlett/symfony_todo.This
+    git clone git://github.com/dcbartlett/symfony_todo.git
 
-git will get the project files.
+This will get the project files.
 You will still need to do the composer part.
 
 ### Download an Archive File
