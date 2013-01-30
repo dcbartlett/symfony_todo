@@ -36,6 +36,7 @@ Download composer (see above) and run the
 following command:
 
     cd /path/to/symfony_todo
+    cp app/config/parameters.yml.dist app/config/parameters.yml
     curl -s http://getcomposer.org/installer | php
     php composer.phar install
 
